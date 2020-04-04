@@ -1,0 +1,16 @@
+Línea 1: Este es un texto para mi proyecto de Git.
+
+Línea 2: Este es un texto para mi proyecto de Git.
+
+Línea 3: Este es un texto para mi proyecto de Git.
+
+Línea 4: Este es un texto para mi proyecto de Git.
+
+Línea 5: Este es un texto para mi proyecto de Git.
+
+Línea 6: Este es un texto para mi proyecto de Git.
+
+Línea 7: Este es un texto para mi proyecto de Git.
+
+Línea 8: Este es un texto para mi proyecto de Git.
+
