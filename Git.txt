@@ -16,8 +16,8 @@ Línea 8: Este es un texto para mi proyecto de Git.
 
 Línea 9: Este es un texto para mi proyecto de Git.
 
-Error vv979v7s7s0: Voy a incluir un Bug en esta versión.
-
 Eu falo 4 línguas
+
+Meu nome é Daniel
 
 
