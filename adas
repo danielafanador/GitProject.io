@@ -1,0 +1,42 @@
+[33mcommit 49d43285fcb52e3047b5ddec14b242a700a78e7f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32malpha[m[33m)[m
+Author: Danny <danielthemisfits@gmail.com>
+Date:   Mon Apr 6 22:39:05 2020 -0300
+
+    Incluí una nueva línea para probar la conexión con GitHub
+
+[33mcommit fab9fc2570526d016f86ad4f94ac3dcd97bed02f[m[33m ([m[1;32mproduction[m[33m)[m
+Merge: 08b29ab 6bf9e06
+Author: Danny <danielthemisfits@gmail.com>
+Date:   Sun Apr 5 20:27:23 2020 -0300
+
+    Arreglé el error y eliminé la línea de Bug
+
+[33mcommit 08b29ab839fe5fec6b263835508fc9efb4395ea7[m
+Author: Danny <danielthemisfits@gmail.com>
+Date:   Sun Apr 5 20:24:35 2020 -0300
+
+    Dessa vez escrevi quantas línguas eu falava
+
+[33mcommit 6bf9e06e4afca0c56ec74b087f6f5dfec6150e74[m
+Author: Danny <danielthemisfits@gmail.com>
+Date:   Sun Apr 5 20:22:36 2020 -0300
+
+    Inseri o meu nome
+
+[33mcommit 78b9310cf5a24dbb67ab5216253c2767b7946949[m[33m ([m[1;32mdevelop[m[33m, [m[1;32mbugfix[m[33m)[m
+Author: Danny <danielthemisfits@gmail.com>
+Date:   Sat Apr 4 19:55:56 2020 -0300
+
+    Incluí un Bug
+
+[33mcommit 821c4f5880c4de5a65e36780a85647bb45259993[m
+Author: Danny <danielthemisfits@gmail.com>
+Date:   Sat Apr 4 19:06:04 2020 -0300
+
+    La línea 10 no tiene contenido
+
+[33mcommit 80e3662a6d990f6d55a9d2492a48f980a1e3edb6[m
+Author: Danny <danielthemisfits@gmail.com>
+Date:   Sat Apr 4 19:00:36 2020 -0300
+
+    Agregué una nueva línea
