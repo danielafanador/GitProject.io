@@ -15,7 +15,7 @@ Se você quiser saber mais sobre mim, basta acessar
 - Git & GitHub
 - Finanças Pessoais
 
-##Línguas que eu falo
+## Línguas que eu falo
 
 - Inglês
 - Espanhol
